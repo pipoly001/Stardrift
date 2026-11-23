@@ -1,2 +1,9 @@
-# Stardrift
-A weather tracking app that lets users look up current temperatures, shows weekly forecasts and lets them save their favourite locations with personal notes and preferences.
+# Stardrift 🌌
+
+A space photography journal that allows users to explore NASA astronomy images, save their favorites, and create personalized journal entries.
+
+## Technologies
+- HTML, CSS, JavaScript
+- NASA APOD API
+- Node.js and Express
+- Supabase
